@@ -13,4 +13,4 @@ Setup instructions:
 - Run the script from you Google Sheet Menu
 - Bask in the glory of all your imported data!
 
-Quesries or help contact: nick.ferreira@barrowsglobal.com
+Queries or help contact: nick.ferreira@barrowsglobal.com

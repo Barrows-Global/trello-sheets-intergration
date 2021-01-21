@@ -11,6 +11,6 @@ Setup instructions:
 - Enable or Disable the Level of Effort plugin ((http://scrumfortrello.com/)
 - Deploy your script
 - Run the script from you Google Sheet Menu
-- Bask in the glory of all your impported data!
+- Bask in the glory of all your imported data!
 
 Quesries or help contact: nick.ferreira@barrowsglobal.com

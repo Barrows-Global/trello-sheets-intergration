@@ -14,3 +14,4 @@ Setup instructions:
 - Bask in the glory of all your imported data!
 
 Queries or help contact: nick.ferreira@barrowsglobal.com
+Kudos to https://stackoverflow.com/users/4847886/robert-gebhardt 
